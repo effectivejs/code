@@ -1,0 +1,6 @@
+// file1.js
+"use strict";
+function f() {
+    // ...
+}
+// ...
