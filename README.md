@@ -4,5 +4,5 @@ This repository hosts the code examples from the book.
 
 **Status**:
 
-Chapter 1: done.
-Chapter 2: done.
+* Chapter 1: done.
+* Chapter 2: done.
