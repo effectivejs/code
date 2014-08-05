@@ -1,7 +1,7 @@
 function trimSections(header, body, footer) {
     var i, n;
     for (i = 0, n = header.length; i < n; i++) {
-        header[i] = header[i].trime();
+        header[i] = header[i].trim();
     }
     for (i = 0, n = body.length; i < n; i++) {
         body[i] = body[i].trim();
